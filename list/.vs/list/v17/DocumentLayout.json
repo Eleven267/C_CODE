@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\code\\learn_c\\list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12CCCEFD-85F9-41F3-B012-E994781F0414}|list\\list.vcxproj|F:\\code\\learn_c\\list\\list\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12CCCEFD-85F9-41F3-B012-E994781F0414}|list\\list.vcxproj|solutionrelative:list\\list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CCCEFD-85F9-41F3-B012-E994781F0414}|list\\list.vcxproj|F:\\code\\learn_c\\list\\list\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12CCCEFD-85F9-41F3-B012-E994781F0414}|list\\list.vcxproj|solutionrelative:list\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CCCEFD-85F9-41F3-B012-E994781F0414}|list\\list.vcxproj|F:\\code\\learn_c\\list\\list\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{12CCCEFD-85F9-41F3-B012-E994781F0414}|list\\list.vcxproj|solutionrelative:list\\list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.c",
+              "DocumentMoniker": "F:\\code\\learn_c\\list\\list\\test.c",
+              "RelativeDocumentMoniker": "list\\test.c",
+              "ToolTip": "F:\\code\\learn_c\\list\\list\\test.c",
+              "RelativeToolTip": "list\\test.c",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-19T07:17:16.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "list.c",
+              "DocumentMoniker": "F:\\code\\learn_c\\list\\list\\list.c",
+              "RelativeDocumentMoniker": "list\\list.c",
+              "ToolTip": "F:\\code\\learn_c\\list\\list\\list.c",
+              "RelativeToolTip": "list\\list.c",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-08-19T07:16:56.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "list.h",
+              "DocumentMoniker": "F:\\code\\learn_c\\list\\list\\list.h",
+              "RelativeDocumentMoniker": "list\\list.h",
+              "ToolTip": "F:\\code\\learn_c\\list\\list\\list.h",
+              "RelativeToolTip": "list\\list.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-19T07:16:42.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
